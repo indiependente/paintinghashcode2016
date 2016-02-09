@@ -1,0 +1,122 @@
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 113
+0.0 Score:  7887
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 97
+0.01 Score:  7903
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 97
+0.02 Score:  7903
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 97
+0.03 Score:  7903
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 96
+0.04 Score:  7904
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 115
+0.05 Score:  7885
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 115
+0.06 Score:  7885
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 115
+0.07 Score:  7885
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 126
+0.08 Score:  7874
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 147
+0.09 Score:  7853
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 147
+0.1 Score:  7853
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 153
+0.11 Score:  7847
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 173
+0.12 Score:  7827
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 174
+0.13 Score:  7826
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 242
+0.14 Score:  7758
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 254
+0.15 Score:  7746
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 314
+0.16 Score:  7686
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 314
+0.17 Score:  7686
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 314
+0.18 Score:  7686
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 314
+0.19 Score:  7686
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 354
+0.2 Score:  7646
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 427
+0.21 Score:  7573
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 469
+0.22 Score:  7531
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 481
+0.23 Score:  7519
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 575
+0.24 Score:  7425
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 605
+0.25 Score:  7395
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 605
+0.26 Score:  7395
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 633
+0.27 Score:  7367
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 696
+0.28 Score:  7304
+Dimensions: (40, 200)
+Cells: 8000
+# commands: 820
+0.29 Score:  7180
+Best score --> 7904
+Delta = 0.04

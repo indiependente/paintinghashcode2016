@@ -1,0 +1,122 @@
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3144
+0.0 Score:  123256
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3094
+0.01 Score:  123306
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3107
+0.02 Score:  123293
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3124
+0.03 Score:  123276
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3172
+0.04 Score:  123228
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3268
+0.05 Score:  123132
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3311
+0.06 Score:  123089
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3376
+0.07 Score:  123024
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3499
+0.08 Score:  122901
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3732
+0.09 Score:  122668
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3801
+0.1 Score:  122599
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 3870
+0.11 Score:  122530
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 4188
+0.12 Score:  122212
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 4554
+0.13 Score:  121846
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 4807
+0.14 Score:  121593
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 5052
+0.15 Score:  121348
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 5208
+0.16 Score:  121192
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 5731
+0.17 Score:  120669
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 5941
+0.18 Score:  120459
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 6359
+0.19 Score:  120041
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 6628
+0.2 Score:  119772
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 7271
+0.21 Score:  119129
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 7385
+0.22 Score:  119015
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 8209
+0.23 Score:  118191
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 8592
+0.24 Score:  117808
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 9073
+0.25 Score:  117327
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 9612
+0.26 Score:  116788
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 10419
+0.27 Score:  115981
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 11171
+0.28 Score:  115229
+Dimensions: (158, 800)
+Cells: 126400
+# commands: 11918
+0.29 Score:  114482
+Best score --> 123306
+Delta = 0.01

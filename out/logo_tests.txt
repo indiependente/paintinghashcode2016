@@ -1,0 +1,222 @@
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 67
+0.0 Score:  1053
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.01 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.02 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.03 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.04 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.05 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.06 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.07 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.08 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.09 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.1 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 61
+0.11 Score:  1059
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.12 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.13 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.14 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.15 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.16 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.17 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.18 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.19 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.2 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.21 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 65
+0.22 Score:  1055
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 68
+0.23 Score:  1052
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 68
+0.24 Score:  1052
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 68
+0.25 Score:  1052
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 68
+0.26 Score:  1052
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 68
+0.27 Score:  1052
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 72
+0.28 Score:  1048
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 72
+0.29 Score:  1048
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 72
+0.3 Score:  1048
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 72
+0.31 Score:  1048
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 72
+0.32 Score:  1048
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 72
+0.33 Score:  1048
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 94
+0.34 Score:  1026
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 94
+0.35 Score:  1026
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 94
+0.36 Score:  1026
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 113
+0.37 Score:  1007
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 113
+0.38 Score:  1007
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 113
+0.39 Score:  1007
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 113
+0.4 Score:  1007
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 143
+0.41 Score:  977
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 143
+0.42 Score:  977
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 143
+0.43 Score:  977
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 143
+0.44 Score:  977
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 181
+0.45 Score:  939
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 181
+0.46 Score:  939
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 190
+0.47 Score:  930
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 190
+0.48 Score:  930
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 212
+0.49 Score:  908
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 212
+0.5 Score:  908
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 212
+0.51 Score:  908
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 231
+0.52 Score:  889
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 243
+0.53 Score:  877
+Dimensions: (14, 80)
+Cells: 1120
+# commands: 261
+0.54 Score:  859
+Best score --> 1059
+Delta = 0.01
