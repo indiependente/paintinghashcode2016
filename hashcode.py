@@ -22,9 +22,6 @@ def check_square(R,C,S,matrix, verbose=False):
 def PAINT_SQUARE(R,C,S,matrix):
     matrix[R-S:R+S+1, C-S:C+S+1] = 1
 
-
-
-
 def PAINT_LINE(R1,C1,R2,C2,matrix):
     matrix[R1:R2+1, C1:C2+1] = 1
 
