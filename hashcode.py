@@ -94,8 +94,8 @@ def algo(m_in, m_work, delta=0.22):
 
     if not (m_in==m_work).all():
         print 'ERROR! MATRICES DID NOT MATCH!'
-    return m_work, all_commands
 
+    return m_work, all_commands
 
 # returns (numwrittencells, [commands])
 def square(m_in, R, C, delta=0.22):
