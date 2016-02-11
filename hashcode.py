@@ -56,14 +56,12 @@ def next_cell(m_in, m_work, R, C):
     return None
 
 
-# min(square, lines, )
 def algo(m_in, m_work, delta=0.22):
     R = 0
     C = 0
     all_commands = []
     while True:
         cell = next_cell(m_in, m_work, R, C)
-        # print cell
         if cell == None:
             break
         sq = square(m_in, cell[0], cell[1], delta)
@@ -86,7 +84,6 @@ def algo(m_in, m_work, delta=0.22):
                 ERASE_CELL(c[1], c[2], m_work)
             elif c[0] == 'PAINT_LINE':
                 PAINT_LINE(c[1], c[2], c[3], c[4], m_work)
-            # print m_work[c[1]-c[3]:c[1]+c[3]+1, c[2]-c[3]:c[2]+c[3]+1]
         all_commands += choice[1]
 
     if not (m_in==m_work).all():
@@ -106,7 +103,6 @@ def square(m_in, R, C, delta=0.22):
             for i in xrange(R, rows):
                 for j in xrange(C, cols):
                     if m_in[i,j] == 0:
-                        # print i,j
                         dots.append((i,j))
             if len(dots) >= (delta * ((2*S+1)**2)):
                 break
